@@ -1,19 +1,19 @@
 **Privacy Policy**
 
-Cornerstone Creations built the Promise of the day app as a Free app. This SERVICE is provided by Cornerstone Creations at no cost and is intended for use as is.
+Cornerstone Creations built the Sunday School Activity app as a Free app. This SERVICE is provided by Cornerstone Creations at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies if anyone decided to use my Service.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Promise of the day unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Sunday School Activity unless otherwise defined in this Privacy Policy.
 
 
 **Information Collection and Use**
 
 This app won't collect any information.  We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why weâ€™re collecting it and how it will be used.
 
-If we collect any personal information, We only retain collected information for as long as necessary to provide you with your requested service. What data we store, weâ€™ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+If we collect any personal information, We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-We donâ€™t share any personally identifying information publicly or with third-parties, except when required to by law.
+We don't share any personally identifying information publicly or with third-parties, except when required to by law.
 
 You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
