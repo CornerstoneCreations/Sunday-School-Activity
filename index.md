@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+**Privacy Policy**
 
-You can use the [editor on GitHub](https://github.com/CornerstoneCreations/Sunday-School-Activity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cornerstone Creations built the Promise of the day app as a Free app. This SERVICE is provided by Cornerstone Creations at no cost and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding my policies if anyone decided to use my Service.
 
-### Markdown
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Promise of the day unless otherwise defined in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**Information Collection and Use**
 
-# Header 1
-## Header 2
-### Header 3
+This app won't collect any information.  We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why weâ€™re collecting it and how it will be used.
 
-- Bulleted
-- List
+If we collect any personal information, We only retain collected information for as long as necessary to provide you with your requested service. What data we store, weâ€™ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-1. Numbered
-2. List
+We donâ€™t share any personally identifying information publicly or with third-parties, except when required to by law.
 
-**Bold** and _Italic_ and `Code` text
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-[Link](url) and ![Image](src)
-```
+**Log Data**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information on your phone called Log Data. This Log Data may include information such as your device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CornerstoneCreations/Sunday-School-Activity/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Changes to This Privacy Policy**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2020-12-11
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at productions.cornerstone@gmail.com.
+
+Thank you.
