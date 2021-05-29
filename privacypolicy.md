@@ -1,4 +1,4 @@
-*Privacy Policy
+*Privacy Policy*
 
 Cornerstone Creations built the Sunday School Activity app as a Free app. This SERVICE is provided by Cornerstone Creations at no cost and is intended for use as is.
 
