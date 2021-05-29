@@ -1,6 +1,6 @@
 ## Sunday School Activity
 
-App Description: Activities for Sunday school children. This app brings 36 stories about our LORD Jesus Christ from the Bible along with fun filled activities like Quiz, Organising the jumbled memory verse and painting. This app is totally add free and available in English, Kannada and Telugu (other Indian languages coming soon...)
+Activities for Sunday school children. This app brings 36 stories about our LORD Jesus Christ from the Bible along with fun filled activities like Quiz, Organising the jumbled memory verse and painting. This app is totally add free and available in English, Kannada and Telugu (other Indian languages coming soon...)
 
 Scripture content and the images used in this app are acquired from BSI (Bible Society of India) Sunday schools activity booklet with consent of BSI.
 
