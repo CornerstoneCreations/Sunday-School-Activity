@@ -16,17 +16,17 @@ We don't share any personally identifying information publicly or with third-par
 
 You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-Log Data
+**Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information on your phone called Log Data. This Log Data may include information such as your device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-Changes to This Privacy Policy
+**Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2020-12-11
 
-Contact Us
+**Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at productions.cornerstone@gmail.com.
 
